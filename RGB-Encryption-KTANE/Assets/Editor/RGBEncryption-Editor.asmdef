@@ -1,0 +1,10 @@
+{
+  "name": "RGBEncryption-Editor",
+  "references": [
+    "RGBEncryption"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
