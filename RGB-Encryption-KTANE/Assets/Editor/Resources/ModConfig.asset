@@ -17,8 +17,15 @@ MonoBehaviour:
   description: 'Why did we called an epileptic person to defuse a bomb...
 
 
-    Manual: https://ktane.timwi.de/HTML/RGB%20Encryption.html'
+    Module ID: RGBEncryption
+
+    Module by: ItsDash16
+
+
+    Manual: https://ktane.timwi.de/HTML/RGB%20Encryption.html
+
+    (soonish)'
   version: 1.0
   outputFolder: C:/Program Files (x86)/Steam/steamapps/common/Keep Talking and Nobody
     Explodes/mods
-  previewImage: {fileID: 2800000, guid: 17d833c85c68710448b31740a2617cce, type: 3}
+  previewImage: {fileID: 2800000, guid: 14ca9dc9bf00d244a8bc9d1c616de243, type: 3}
